@@ -1,0 +1,93 @@
+dim 35 35 35
+putBox 0 10 0 1 0 10 0 0 0 1
+cutBox 1 8 0 1 1 8
+putBox 1 8 0 1 1 8 0.3 0.3 0.3 1
+
+cutVoxel 1 0 1
+putVoxel 1 0 1 1 1 1 1
+cutVoxel 2 0 2
+putVoxel 2 0 2 1 1 1 1
+cutVoxel 3 0 3
+putVoxel 3 0 3 1 1 1 1
+cutVoxel 4 0 4
+putVoxel 4 0 4 1 1 1 1
+cutVoxel 5 0 5
+putVoxel 5 0 5 1 1 1 1
+cutVoxel 6 0 6
+putVoxel 6 0 6 1 1 1 1
+cutVoxel 7 0 7
+putVoxel 7 0 7 1 1 1 1
+cutVoxel 8 0 8
+putVoxel 8 0 8 1 1 1 1
+cutVoxel 1 0 3
+putVoxel 1 0 3 1 1 1 1
+cutVoxel 2 0 4
+putVoxel 2 0 4 1 1 1 1
+cutVoxel 3 0 5
+putVoxel 3 0 5 1 1 1 1
+cutVoxel 4 0 6
+putVoxel 4 0 6 1 1 1 1
+cutVoxel 4 0 2
+putVoxel 4 0 2 1 1 1 1
+cutVoxel 5 0 1
+putVoxel 5 0 1 1 1 1 1
+cutVoxel 5 0 3
+putVoxel 5 0 3 1 1 1 1
+cutVoxel 5 0 7
+putVoxel 5 0 7 1 1 1 1
+cutVoxel 6 0 8
+putVoxel 6 0 8 1 1 1 1
+cutVoxel 6 0 2
+putVoxel 6 0 2 1 1 1 1
+cutVoxel 6 0 4
+putVoxel 6 0 4 1 1 1 1
+cutVoxel 7 0 1
+putVoxel 7 0 1 1 1 1 1
+cutVoxel 7 0 3
+putVoxel 7 0 3 1 1 1 1
+cutVoxel 7 0 5
+putVoxel 7 0 5 1 1 1 1
+cutVoxel 8 0 2
+putVoxel 8 0 2 1 1 1 1
+cutVoxel 8 0 4
+putVoxel 8 0 4 1 1 1 1
+cutVoxel 8 0 6
+putVoxel 8 0 6 1 1 1 1
+cutVoxel 1 0 5
+putVoxel 1 0 5 1 1 1 1
+cutVoxel 1 0 7
+putVoxel 1 0 7 1 1 1 1
+cutVoxel 2 0 6
+putVoxel 2 0 6 1 1 1 1
+cutVoxel 2 0 8
+putVoxel 2 0 8 1 1 1 1
+cutVoxel 3 0 1
+putVoxel 3 0 1 1 1 1 1
+cutVoxel 3 0 7
+putVoxel 3 0 7 1 1 1 1
+cutVoxel 4 0 8
+putVoxel 4 0 8 1 1 1 1
+
+putBox 12 5 0 1 2 5 1 1 1 1
+putBox 13 3 1 5 3 3 1 1 1 1
+putVoxel 14 6 4 1 1 1 1
+putBox 13 3 7 2 3 3 1 1 1 1
+
+cutVoxel 14 8 4
+cutVoxel 13 8 4
+cutVoxel 15 8 4
+cutVoxel 14 8 3
+cutVoxel 14 8 5
+
+putBox 2 5 0 1 12 5 0.1 0.1 0.1 1
+putBox 3 3 1 4 13 3 0.1 0.1 0.1 1
+putVoxel 4 5 14 0.1 0.1 0.1 1
+putBox 3 3 6 1 13 3 0.1 0.1 0.1 1
+putBox 4 1 7 3 14 1 0.1 0.1 0.1 1
+putVoxel 3 8 14 0.1 0.1 0.1 1
+putVoxel 5 8 14 0.1 0.1 0.1 1
+
+
+
+
+
